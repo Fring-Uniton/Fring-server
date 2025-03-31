@@ -1,7 +1,7 @@
 ---
-name: Template
-about: "☃️ 이슈 템플릿 "
-title: "[Feat"
+name: ☃️ 이슈 템플릿
+about: "❄️ 템플릿 양식 "
+title: "[Feat]"
 labels: ''
 assignees: ''
 
